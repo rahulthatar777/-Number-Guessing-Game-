@@ -1,5 +1,8 @@
 # Number Guessing Game
 
+deployment Verce link: number-guessing-game-five-pi.vercel.app
+
+
 A simple web-based number guessing game created with **HTML**, **CSS**, and **JavaScript**. The player guesses a number between 1 and 100, and the game provides feedback (too high, too low, or correct) after each guess. The game tracks the number of attempts and shows the player's previous guesses. The game ends when the correct number is guessed or after 10 attempts.
 
 ## Features
