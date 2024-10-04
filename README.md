@@ -48,5 +48,5 @@ A simple web-based number guessing game created with **HTML**, **CSS**, and **Ja
     open index.html
     ```
 
-## File Structure
+
 
